@@ -1,0 +1,35 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-center-container {
+    padding: 5px 10px;
+    width: 65%;
+}
+
+.about-center-container p{
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    margin-top: 20px;
+}
+
+.about-center-container h2, .time-work-center p {
+    font-family: Comfortaa, cursive; 
+    font-weight: bold;
+    color: #55357E;
+    text-align: center;
+}
+
+.about-center-container h2 {
+    font-size: 24px; 
+}
+
+.time-work-center p {
+    font-size: 18px; 
+}
+

@@ -1,0 +1,12 @@
+.flex-activity-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.activity-filter {
+  width: 25%;
+}
+
+.activity-list {
+  width: 75%;
+}
